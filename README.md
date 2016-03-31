@@ -22,5 +22,6 @@ $ gulp default
 ```
 $ npm i -S ejs express
 $ npm install gulp --save-dev
+$ npm install gulp-sass --save-dev
 $ npm install @salesforce-ux/design-system --save
 ```
