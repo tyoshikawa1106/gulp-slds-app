@@ -11,11 +11,12 @@ $ npm start
 ```
 $ gulp sass
 $ gulp slds-copy
+$ gulp js
 ```
 
-### sass & slds-copy
+### gulp default
 ```
-$ gulp default
+$ gulp
 ```
 
 ## npm install memo
