@@ -14,7 +14,8 @@
     "express": "^4.13.4"
   },
   "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-sass": "^2.2.0"
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.2.0",
+    "gulp-uglify": "^1.5.3"
   }
 }
